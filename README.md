@@ -97,4 +97,3 @@ are stored locally with Qt QSettings.
 
 GPL-3.0-or-later. Icon renderer derived from IngeTrazo; original copyright
 notices are retained. See `LICENSE`.
-
